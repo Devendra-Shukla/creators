@@ -86,8 +86,8 @@ body {
 }
 
 .hero_bg_box {
-  filter: blur(2px);
-  -webkit-filter: blur(2px);
+  filter: blur(1px);
+  -webkit-filter: blur(1px);
   position: absolute;
   top: 0;
   left: 0;
