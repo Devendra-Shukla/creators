@@ -86,8 +86,8 @@ body {
 }
 
 .hero_bg_box {
-  filter: blur(1px);
-  -webkit-filter: blur(1px);
+  filter: blur(3px);
+  -webkit-filter: blur(3px);
   position: absolute;
   top: 0;
   left: 0;
@@ -634,7 +634,7 @@ a:focus {
 .contact_section .contact_form-container input {
   border: none;
   outline: none;
-  color: #000000;
+  color: #07305d;
   height: 45px;
   width: 100%;
   margin: 15px 0;
